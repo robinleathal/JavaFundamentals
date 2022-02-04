@@ -67,6 +67,7 @@ public class ArrayDemo2 {
 		int arr[] = {2, 8, 9, 1, 3, 4, 25};
 		max(arr);
 		min(arr);
+		System.out.println("Second Largest elemnt in array is " +secondLargest(arr));
 
 	}
 
